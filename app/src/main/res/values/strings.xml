@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MOV</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="lebih_mudah">Lebih mudah untuk mengetahui \n film yang sedang tampil</string>
+    <string name="skip_intro">Lewati Perkenalan</string>
+    <string name="Lanjutkan">Lanjutkan</string>
+    <string name="presale">Pre Sale</string>
+    <string name="tidak_khawatir">Tidak khawatir ketinggalan\n update film terbaru</string>
+    <string name="Memulai">Memulai</string>
+    <string name="Cashless">Cashless</string>
+    <string name="use_ewallet">Gunakan E-Wallet untuk\n transaksi tiket nonton</string>
+</resources>
