@@ -9,4 +9,9 @@
     <string name="Memulai">Memulai</string>
     <string name="Cashless">Cashless</string>
     <string name="use_ewallet">Gunakan E-Wallet untuk\n transaksi tiket nonton</string>
+    <string name="Sign_in">Sign In</string>
+    <string name="Username">Username</string>
+    <string name="password">Password</string>
+    <string name="MasukAkun">Masuk Akun</string>
+    <string name="DaftarAkunBaru">Daftar Akun Baru</string>
 </resources>
